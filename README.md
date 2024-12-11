@@ -3,8 +3,6 @@
 This repository contains a Jupyter Notebook for analyzing diabetes data. The analysis is performed using Python with libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Getting Started
-
-
 ### Prerequisites
 
 - Python 3.x
