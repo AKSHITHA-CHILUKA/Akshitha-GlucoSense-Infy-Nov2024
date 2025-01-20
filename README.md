@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook for analyzing diabetes data. The ana
 ## Getting Started
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Jupyter Notebook
 - Pandas
 - NumPy
